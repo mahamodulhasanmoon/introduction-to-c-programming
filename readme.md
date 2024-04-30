@@ -19,7 +19,7 @@ Welcome to the C Programming Learning Repository! This repository is designed to
 
   1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/c-programming-learning.git 
+   git clone https://github.com/mahamodulhasanmoon/introduction-to-c-programming
 ```
   2. Navigate to the cloned directory:
 
