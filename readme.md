@@ -17,6 +17,15 @@ Welcome to the C Programming Learning Repository! This repository is designed to
 
 ## Getting Started
 
-1. Clone this repository to your local machine:
+  1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/c-programming-learning.git
+   git clone https://github.com/your-username/c-programming-learning.git 
+```
+  2. Navigate to the cloned directory:
+
+   ```bash
+ cd introduction-to-c-programming
+```
+
+# Contribution
+ If you find any errors or want to contribute to this repository by adding new topics, exercises, or resources, feel free to open an issue or submit a pull request.
